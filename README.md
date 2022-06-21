@@ -15,7 +15,7 @@ solana airdrop 2
 
 spl-token create-token
 
-spl-token create-account (codigo do token criado no comando acima: C3nZ6813otSVziPpkW1UjmGpTFsvAnTe1ngQ5vHnneBo)
+spl-token create-account (codigo do token criado no comando acima: C3nZ6813otSJHSdjshdJHDTFsvAnTe1ngQ5vHnneBo)
 
 spl-token mint (codigo do token criado) 1000 (1000 no caso é a quantidade de tokens que quer q seja criado, nesse caso 1000 tokens)
 
