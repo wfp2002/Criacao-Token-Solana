@@ -24,3 +24,10 @@ para checar o supply: spl-token supply (codigo do token criado)
 Para transferir o token criado para uma outra conta:
 
 spl-token transfer (codigo do token criado) 50 (codigo da carteira para onde vai enviar o token) --fund-recipient
+
+
+#####################
+
+Veja esse tutorial para criar o Nome e o Logo do Token na rede da solana atraves do Fork e PR no Github.
+
+https://learn.figment.io/tutorials/sol-mint-token
